@@ -13,11 +13,13 @@ File: assignment_1/student_scores_visualization.py
 ### 3. CSV Import to SQLite
 File: assignment_1/csv_to_sqlite.py
 
-### 4. Most Complex Python Project
-[Your GitHub project link]
+## 4. Most Complex Python Code
 
-### 5. Most Complex Database Project
-[Your actual database project link]
+[Hands-Free Computer Control](https://github.com/prince6387/-Hands-Free-Computer-Control/blob/main/_Hands-Free%20Computer%20Control.ipynb)
+
+## 5. Most Complex Database Code
+
+[SQLite Python Assignment](https://github.com/prince6387/sqlite-python-assignment)
 
 ## Assignment 2
 
